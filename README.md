@@ -8,7 +8,7 @@ I build scalable digital products, from web and mobile applications to business 
 
 <p align="left">
   <a href="mailto:iamttnnow@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nghiatt1410%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-iamttnnow%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ttncode">
     <img src="https://img.shields.io/badge/GitHub-ttncode-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -104,6 +104,7 @@ I build scalable digital products, from web and mobile applications to business 
   <img src="https://img.shields.io/badge/Navicat-3C3C3C?style=flat-square&logo=navicat&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
 </p>
