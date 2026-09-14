@@ -33,8 +33,8 @@ I build scalable digital products, from web and mobile applications to business 
 
 - 🚀 [**scaffold**](https://github.com/ttncode/unioss-plugins) — Development scaffolding with CI, containers, and installable releases.
 - 📥 [**openmedia**](https://github.com/ttncode/openmedia) — Lightweight, self-hosted media downloader with a clean web UI.
-- 🧠 [**gitlab-issues-analyzer**](https://github.com/ttncode/gitlab-issues-analyzer) — AI-powered analysis of GitLab issues.
 - 🎵 [**music-assistant**](https://github.com/ttncode/music-assistant) — Self-hosted music manager with YouTube and SoundCloud integration.
+- 🧠 [**gitlab-issues-analyzer**](https://github.com/ttncode/gitlab-issues-analyzer) — AI-powered analysis of GitLab issues.
 
 ---
 
