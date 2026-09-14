@@ -31,7 +31,8 @@ I build scalable digital products, from web and mobile applications to business 
 
 ## Current Projects
 
-- 🚀 **[scaffold](https://github.com/ttncode/unioss-plugins)** — Pick a stack — CI, containers, and a release you can install
+- 🚀 **[scaffold](https://github.com/ttncode/unioss-plugins)** — Pick a stack — CI, containers, and a release you can install.
+- 📥 **[openmedia](https://github.com/ttncode/openmedia)** Download videos from almost any website.
 - 🧠 **[gitlab-issues-analyzer](https://github.com/ttncode/gitlab-issues-analyzer)** — AI-powered GitLab issue analyzer.
 - 🛒 **[in.ex-shop](https://github.com/ttncode/in.ex-shop)** — Full-stack clothing store built with Next.js and NestJS.
 - 🎵 **[music-assistant](https://github.com/ttncode/music-assistant)** — Self-hosted music manager with YouTube and SoundCloud sync.
