@@ -31,12 +31,10 @@ I build scalable digital products, from web and mobile applications to business 
 
 ## Current Projects
 
-- 🚀 **[scaffold](https://github.com/ttncode/unioss-plugins)** — Pick a stack — CI, containers, and a release you can install.
-- 📥 **[openmedia](https://github.com/ttncode/openmedia)** Download videos from almost any website.
-- 🧠 **[gitlab-issues-analyzer](https://github.com/ttncode/gitlab-issues-analyzer)** — AI-powered GitLab issue analyzer.
-- 🛒 **[in.ex-shop](https://github.com/ttncode/in.ex-shop)** — Full-stack clothing store built with Next.js and NestJS.
-- 🎵 **[music-assistant](https://github.com/ttncode/music-assistant)** — Self-hosted music manager with YouTube and SoundCloud sync.
-- 🔐 **[laravel-auth-kit](https://github.com/ttncode/laravel-auth-kit)** — Laravel 11 authentication boilerplate.
+- 🚀 [**scaffold**](https://github.com/ttncode/unioss-plugins) — Development scaffolding with CI, containers, and installable releases.
+- 📥 [**openmedia**](https://github.com/ttncode/openmedia) — Lightweight, self-hosted media downloader with a clean web UI.
+- 🧠 [**gitlab-issues-analyzer**](https://github.com/ttncode/gitlab-issues-analyzer) — AI-powered analysis of GitLab issues.
+- 🎵 [**music-assistant**](https://github.com/ttncode/music-assistant) — Self-hosted music manager with YouTube and SoundCloud integration.
 
 ---
 
