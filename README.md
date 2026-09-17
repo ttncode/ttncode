@@ -14,7 +14,7 @@ I build scalable digital products, from web and mobile applications to business 
     <img src="https://img.shields.io/badge/GitHub-ttncode-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://ttncode.qzz.io/">
-    <img src="https://img.shields.io/badge/Website-ttndev.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-ttncode.qzz.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I build scalable digital products, from web and mobile applications to business 
 
 ## Current Projects
 
-- 🚀 [**scaffold**](https://github.com/ttncode/unioss-plugins) — Development scaffolding with CI, containers, and installable releases.
+- 🚀 [**scaffold**](https://github.com/ttncode/scaffold) — Development scaffolding with CI, containers, and installable releases.
 - 📥 [**openmedia**](https://github.com/ttncode/openmedia) — Lightweight, self-hosted media downloader with a clean web UI.
 - 🎵 [**music-assistant**](https://github.com/ttncode/music-assistant) — Self-hosted music manager with YouTube and SoundCloud integration.
 - 🧠 [**gitlab-issues-analyzer**](https://github.com/ttncode/gitlab-issues-analyzer) — AI-powered analysis of GitLab issues for development teams.
@@ -132,7 +132,7 @@ I build scalable digital products, from web and mobile applications to business 
 
 - 💼 LinkedIn: [Truong Trung Nghia](https://www.linkedin.com/in/truong-trung-nghia-21b488299/)
 - 📧 Email: [iamttnnow@gmail.com](mailto:iamttnnow@gmail.com)
-- 🌐 Website: [ttncode.com](https://ttncode.qzz.io/)
+- 🌐 Website: [ttncode.qzz.io](https://ttncode.qzz.io/)
 
 ---
 
