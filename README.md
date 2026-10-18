@@ -31,11 +31,11 @@ I build scalable digital products, from web and mobile applications to business 
 
 ## Current Projects
 
-- 🚀 [**scaffold**](https://github.com/ttncode/scaffold) — Development scaffolding with CI, containers, and installable releases.
-- 📥 [**openmedia**](https://github.com/ttncode/openmedia) — Lightweight, self-hosted media downloader with a clean web UI.
-- 🎵 [**music-assistant**](https://github.com/ttncode/music-assistant) — Self-hosted music manager with YouTube and SoundCloud integration.
 - 🤖 [**kiln**](https://github.com/ttncode/kiln) — Let an AI coding agent work a whole ticket without watching every command it runs.
 - 🎬 [**clipbay**](https://github.com/ttncode/clipbay) — Topic in, vertical video out. Track it on TikTok and YouTube. Self-hosted.
+- 🚀 [**scaffold**](https://github.com/ttncode/scaffold) — Development scaffolding with CI, containers, and installable releases.
+- 🎵 [**music-assistant**](https://github.com/ttncode/music-assistant) — Self-hosted music manager with YouTube and SoundCloud integration.
+- 📥 [**openmedia**](https://github.com/ttncode/openmedia) — Lightweight, self-hosted media downloader with a clean web UI.
 
 ---
 
